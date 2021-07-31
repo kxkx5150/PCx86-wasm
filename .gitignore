@@ -3,7 +3,9 @@
 tests/qemu/test-i386
 tests/jit-paging/test-jit
 *.map
-build/
+build/debug
+build/release
+build/wasm32-unknown-unknown
 closure-compiler/
 images/
 *.bak
